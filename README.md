@@ -78,4 +78,4 @@ Bisa dilihat di [example.php](https://github.com/sonofescobar1337/server-scanner
 [Tron TRC-20] TEXwAYqTMb5F7hDj7QnawNVYLqfyv8oNWe <br>
 
 ## Screenshots
-![Screenshots 1](https://github.com/sonofescobar1337/server-scanner/blob/main/screenshots/scrennshots-1.jpg?raw=true)
+![Screenshots 1](https://github.com/sonofescobar1337/monitor-uploader/blob/main/screenshots/35495dda-2205-4cb6-961c-ed88cc650203.jpg?raw=true)

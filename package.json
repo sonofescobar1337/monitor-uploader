@@ -1,0 +1,24 @@
+{
+  "name": "monitor-uploader",
+  "version": "1.0.0",
+  "description": "Monitoring Your User Uploader Activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofescobar1337/monitor-uploader.git"
+  },
+  "author": "sonofescobar1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonofescobar1337/monitor-uploader/issues"
+  },
+  "homepage": "https://github.com/sonofescobar1337/monitor-uploader#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  }
+}
